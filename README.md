@@ -3,11 +3,7 @@ Smartbridge MERN Stack Project Submission
 
 ## 📱 Book My Doc – A MERN Stack Application
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mongodb-js/leaf/master/packages/hadron-app-icons/src/mern.png" alt="MERN Stack Logo" width="400"/>
-</p>
 
----
 
 ### 🛠 Tech Stack
 
